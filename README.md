@@ -1,4 +1,6 @@
-AIM : To receive a message using an RF receiver.
+AIM :-
+
+To receive a message using an RF receiver.
 
 Components Required:-
 
