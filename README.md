@@ -11,7 +11,7 @@ Procedure:-
 
 First identify the pins int the receiver.
 Connect the GND pin in the RF receiver to the arduino board. Then connect the data to any pin containing ‘~’ symbol (pmw) in arduino and connected the Vcc pin to 5V .
-Download the library from the following link (RF 433MHz Transmitter/Receiver Module With Arduino | Random Nerd Tutorials) and set it up in your arduino IDE.
+Download the library from the first link given in references and set it up in your arduino IDE.
 Implement the code given in the above repository file.
 Run the code and check th emessage in Serial monitor.
 
@@ -28,6 +28,7 @@ I felt the joy of understanding something new.We completed the task in an hour a
 I am looking forward to work with arduino boards and creating new circuits.
 
 References:-
+
 https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 
 https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/433MHz/receiver.ino
